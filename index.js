@@ -1,1 +1,3 @@
-// Write your code here!
+h1.textContent="Hello World!"
+console.log(h1.textContent)
+main.remove()
