@@ -1,3 +1,3 @@
-h1.textContent="Hello World!"
-console.log(h1.textContent)
-main.remove()
+const newHeader=document.createElement("h1")
+newHeader.id="victory"
+newHeader.textContent="Noah is the champion"
